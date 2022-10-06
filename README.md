@@ -1,11 +1,20 @@
 # Chisel presentation
 
 1. glossary
+	-- Chisel stands for hardware descript language embedded in scala 
   -- scala 
+  	scala is JAVA  based( run in JVM)
+	
+	
     Domain Specific Languages (DSL) 
 		https://www.scala-lang.org/old/node/1403
 		-- firrtl
-    Flexible Intermediate Representation for RTL
+    Flexible Intermediate Representation(IR) for RTL
+    	wiki
+		https://en.wikipedia.org/wiki/Intermediate_representation
+    
+    flow chart
+    https://blog.csdn.net/qq_39507748/article/details/113841245
     
   
     
@@ -26,5 +35,10 @@
   -- sbt
     windows/ mac/ linux
   -- chisel template
-    
+
+3. first module 
+  -- adder/ fir module
+  -- diagrammer
+4. misc
+ -- prefix 
 
