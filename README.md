@@ -1,11 +1,15 @@
 # Chisel presentation
 
-1. glossary
+1. Get started
 	-- Chisel stands for hardware descript language embedded in scala 
   -- scala 
   	scala is JAVA  based( run in JVM)
-	
-	
+
+  Chisel and firrtl
+
+   UC Berkeley EECS Chisel Website   
+      https://www.chisel-lang.org
+
     Domain Specific Languages (DSL) 
 		https://www.scala-lang.org/old/node/1403
 		-- firrtl
@@ -16,9 +20,7 @@
     flow chart
     https://blog.csdn.net/qq_39507748/article/details/113841245
     
-  
-    
-  -- resource
+2.   resources
 		
 		UC berkely
       https://people.eecs.berkeley.edu/~jrb/Projects/chisel/chisel.htm
@@ -31,14 +33,26 @@
     riscv on chisel
     
     
-2. env setup 
+3. build your own project 
   -- sbt
     windows/ mac/ linux
   -- chisel template
 
-3. first module 
+4. first module 
   -- adder/ fir module
-  -- diagrammer
-4. misc
+
+4.1 generator
+
+
+5. design verification
+  -- debug message
+  -- chisel tester
+  -- random restricted 
+  -- formal test
+
+6. diagrammer
+7. SV2chisel
+
+A. misc
  -- prefix 
 
